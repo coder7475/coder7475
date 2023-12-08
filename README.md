@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
   
-  <a href="https://github.com/coder7475me">
+  <a href="https://github.com/coder7475">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
