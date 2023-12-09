@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 # Technology:
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwindcss,react,materialui" />
   </a>
 </p>
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
