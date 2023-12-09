@@ -39,9 +39,24 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=firebase,express,mongodb" />
   </a>
 </p>
+
+# Tools:
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git" />
+  </a>
+</p>
+
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vite,vercel" />
+  </a>
+</p>
+
 
 # Socials:
 <div id="badges">
