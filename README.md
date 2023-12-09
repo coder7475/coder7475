@@ -4,9 +4,9 @@
 
 # About Me:
 
-Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) stack developer embarking on the thrilling adventure of transforming my aspirations into code. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career and contribute my skills to innovative projects
+Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) stack developer. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
-## Current Overview:
+# Current Overview:
 
 - 🌱 I’m currently learning TypeScript and Next.js
 - 📫 How to reach me: robiulhossain7475@gmail.com
@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Socials:
+# Technology:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+# Socials:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
