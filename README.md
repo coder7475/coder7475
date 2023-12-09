@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png"  />
 </div>
 
-# About Me:
+## About Me:
 
 Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) stack developer. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
-# Current Overview:
+## Current Overview:
 
 - 🌱 I’m currently learning TypeScript and Next.js
 - 📫 How to reach me: robiulhossain7475@gmail.com
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Technology:
+## Technology:
 
 <p>
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# Tools:
+## Tools:
 
 <p >
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# Socials:
+## Socials:
 <div id="badges">
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -73,10 +73,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-# GitHub Stats:
+## GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
-# GitHub Trends:
+## GitHub Trends:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
