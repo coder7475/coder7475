@@ -8,7 +8,8 @@ Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node
 
 ## Current Overview:
 
-- 🌱 I’m currently learning TypeScript and Next.js
+- 🌱 I’m currently learning node.js, express.js and mongodb.
+- 🔭 I’m currently exploring TypeScript and Next.js
 - 📫 How to reach me: robiulhossain7475@gmail.com
 
 <!--
@@ -17,9 +18,8 @@ Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node
 Here are some ideas to get you started:
 
 - 🤔 I’m thinking about creating
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
