@@ -4,7 +4,6 @@
 
 # About Me:
 
-
 Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) stack developer embarking on the thrilling adventure of transforming my aspirations into code. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career and contribute my skills to innovative projects
 
 ## Current Overview:
@@ -39,3 +38,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
+
+# GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
