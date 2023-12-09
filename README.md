@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   * Features:
     * Responsive Design
     * Authentication using firebase
-    * Google Signup
+    * Google SignIn
     * JWT authentication using cookie
     * Provide singnup as an employee and admin
     * Stripe Payment Integration
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
   * Features:
     * Responsive Design
     * Authentication using firebase
-    * Google Sign UP
+    * Google SignIn
     * JWT authentication using cookie
     * Add Blog for logged user
     * Update your own blog
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
   * Features:
     * Responsive Design
     * Authentication using firebase
-    * Facebook Sign UP
+    * Facebook SignIn
     * JWT authentication using cookie
     * Add Product for logged user
     * Cart for which products are bought
