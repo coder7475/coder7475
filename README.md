@@ -76,3 +76,9 @@ Here are some ideas to get you started:
 # GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=github&utcOffset=8)
