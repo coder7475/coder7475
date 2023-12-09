@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 # Socials:
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
