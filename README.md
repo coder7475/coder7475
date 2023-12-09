@@ -84,3 +84,44 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8)
+
+## My Latest Projects:
+
+* <strong>IT Asset Management System</strong>
+  * Live Link: https://assetit-18c66.web.app/
+  * Description: A website for a service provider company who provides an IT Asset mangement system for companies.
+  * Features:
+    * Responsive Design
+    * Authentication using firebase
+    * Google Signup
+    * JWT authentication using cookie
+    * Provide singnup as an employee and admin
+    * Stripe Payment Integration
+    * Admin can create, add and delete assets
+    * Admin can accept or reject requests by employee
+    * Admin can add employee to the company
+    * Employees can make request for existing request or make an custom request for asset
+
+* <strong>Programmers Blog</strong>
+  * Live Link: https://programmers-blog-68efb.web.app/
+  * Description: A website where programmers can read, write and update blogs and comment on on others blod.
+  * Features:
+    * Responsive Design
+    * Authentication using firebase
+    * Google Sign UP
+    * JWT authentication using cookie
+    * Add Blog for logged user
+    * Update your own blog
+    * Comment on others blog
+    * Wishlist for saving which blog to read
+
+* <strong>Halo Cosmetics & Beauty</strong>
+  * Live Link: https://halo-cosmetics.web.app/
+  * Description: A website for a group company where customers can buy products from different brands of the group.
+  * Features:
+    * Responsive Design
+    * Authentication using firebase
+    * Facebook Sign UP
+    * JWT authentication using cookie
+    * Add Product for logged user
+    * Cart for which products are bought
