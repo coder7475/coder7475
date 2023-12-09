@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png" height=400 />
+  <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png" width=600 height=600 />
 </div>
 
 # About Me:
