@@ -2,15 +2,17 @@
   <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png"  />
 </div>
 
-## About Me:
+##📖 Overview
 
-Greetings! I'm Robiul, an enthusiastic MERN (MongoDB, Express.js, React.js, Node.js) stack developer. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
-
-## Current Overview:
-
-- 🌱 I’m currently learning node.js, express.js and mongodb.
-- 🔭 I’m currently exploring TypeScript and Next.js
+- 👑 I'm skilled in html, css, javascript
+- 🖊️ I'm good at leveraging react to create user interface 
+- 🔭 I’m currently exploring TypeScript and Next.js to skill up
+- 🌱 I’m currently passionate about backend developement using node.js
 - 📫 How to reach me: robiulhossain7475@gmail.com
+
+##🚀 About Me:
+
+Hello! I'm Robiul Hossain, a Front End Web Developer. My goal is to become a full stack web developer focusing on MERN stack. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
 <!--
 **coder7475/coder7475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +23,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
-## Technology:
+##👨‍💻 Technology I USE:
 
 <p>
   <a href="https://skillicons.dev">
@@ -43,7 +45,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Tools:
+##🔧 My Tools:
 
 <p >
   <a href="https://skillicons.dev">
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Socials:
+## 👥 Connect With ME:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
@@ -73,17 +75,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## GitHub Stats:
+##✅ My Contributions:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
-## GitHub Trends:
+##⚡ Languages I Use:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8)
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
 
 ## My Latest Projects:
 
