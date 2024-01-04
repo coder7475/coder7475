@@ -4,10 +4,10 @@
 
 ## 📖 Overview
 
-- 👑 I'm skilled in html, css, javascript
-- 🖊️ I'm good at leveraging react to create user interface 
-- 🔭 I’m currently exploring TypeScript and Next.js to skill up
-- 🌱 I’m currently passionate about backend developement using node.js
+- 👑 I'm skilled in html, css & javascript
+- 🖊️ I'm proficient in creating user interface using react.js
+- 🔭 I’m currently exploring typeScript and next.js to skill up
+- 🌱 I’m passionate about backend developement, currently learning node.js and mongodb
 - 📫 How to reach me: robiulhossain7475@gmail.com
 
 ## 🚀 About Me:
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
-##⚡ Languages I Use:
+## ⚡ Languages I Use:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
 
-## My Latest Projects:
+## 🎆 My Latest Projects:
 
 * <strong>IT Asset Management System</strong>
   * Live Link: https://assetit-18c66.web.app/
