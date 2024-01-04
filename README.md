@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png"  />
 </div>
 
-##📖 Overview
+## 📖 Overview
 
 - 👑 I'm skilled in html, css, javascript
 - 🖊️ I'm good at leveraging react to create user interface 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently passionate about backend developement using node.js
 - 📫 How to reach me: robiulhossain7475@gmail.com
 
-##🚀 About Me:
+## 🚀 About Me:
 
 Hello! I'm Robiul Hossain, a Front End Web Developer. My goal is to become a full stack web developer focusing on MERN stack. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-##👨‍💻 Technology I USE:
+## 👨‍💻 Technology I USE:
 
 <p>
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-##🔧 My Tools:
+## 🔧 My Tools:
 
 <p >
   <a href="https://skillicons.dev">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-##✅ My Contributions:
+## ✅ My Contributions:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
