@@ -12,7 +12,9 @@
 
 ## 🚀 About Me:
 
-Hello! I'm Robiul Hossain, a Front End Web Developer. My goal is to become a full stack web developer focusing on MERN stack. As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
+Hello! I'm Robiul Hossain, a Front End Web Developer. 
+My goal is to become a full stack web developer focusing on MERN stack. 
+As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
 <!--
 **coder7475/coder7475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,14 +27,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
+## ⚡ Languages I Use:
 
-## 👨‍💻 Technology I USE:
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
 
-<p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
+
+
+## 👨‍💻 Technology I Use:
+
+<!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
-</p>
+</p> -->
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwindcss,react,materialui" />
@@ -59,35 +69,22 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 👥 Connect With ME:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="mailto:robiulhossain7475@gmail.com">
-    <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
-  </a>
-  
-  <a href="https://www.facebook.com/rhfahadchy">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
 
 ## ✅ My Contributions:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
-## ⚡ Languages I Use:
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
 
 ## 🎆 My Latest Projects:
+
+* <strong>Task Management</strong>
+  * Live Link: https://priority-task-management.web.app/
+  * Description: A website To manage your daily tasks with priority.
+  * Features:
+    * Manage Daily Task using Three Lists with drag-n-drop functionaliy
+    * Set Priority and date for each task
+    * Responsive Design
+    * Authentication using firebase    
 
 * <strong>IT Asset Management System</strong>
   * Live Link: https://assetit-18c66.web.app/
@@ -127,3 +124,19 @@ Here are some ideas to get you started:
     * JWT authentication using cookie
     * Add Product for logged user
     * Cart for which products are bought
+
+## 👥 Connect With Me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:robiulhossain7475@gmail.com">
+    <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+  </a>
+  
+  <a href="https://www.facebook.com/rhfahadchy">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
