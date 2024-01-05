@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 </p> -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss,react,nextjs,redux" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb" />
   </a>
 </p>
 
