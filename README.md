@@ -12,8 +12,8 @@
 
 ## 🚀 About Me:
 
-Hello! I'm Robiul Hossain, a Front End Web Developer. 
-My goal is to become a full stack web developer focusing on MERN stack. 
+Hello! I'm Robiul Hossain, a Front End Web Developer.
+My goal is to become a full stack web developer focusing on MERN stack.
 As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
 
 <!--
@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
+
 ## ✅ My Contributions:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)]
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
 ## ⚡ Languages I Use:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
 
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=8) -->
 
 ## 👨‍💻 Technology I Use:
 
@@ -74,57 +74,58 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
 ## 🎆 My Latest Projects:
 
-* <strong>Task Management</strong>
-  * Live Link: https://priority-task-management.web.app/
-  * Description: A website To manage your daily tasks with priority.
-  * Features:
-    * Manage Daily Task using Three Lists with drag-n-drop functionaliy
-    * Set Priority and date for each task
-    * Responsive Design
-    * Authentication using firebase    
+- <strong>Task Management</strong>
 
-* <strong>IT Asset Management System</strong>
-  * Live Link: https://assetit-18c66.web.app/
-  * Description: A website for a service provider company who provides an IT Asset mangement system for companies.
-  * Features:
-    * Responsive Design
-    * Authentication using firebase
-    * Google SignIn
-    * JWT authentication using cookie
-    * Provide singnup as an employee and admin
-    * Stripe Payment Integration
-    * Admin can create, add and delete assets
-    * Admin can accept or reject requests by employee
-    * Admin can add employee to the company
-    * Employees can make request for existing request or make an custom request for asset
+  - Live Link: https://priority-task-management.web.app/
+  - Description: A website To manage your daily tasks with priority.
+  - Features:
+    - Manage Daily Task using Three Lists with drag-n-drop functionaliy
+    - Set Priority and date for each task
+    - Responsive Design
+    - Authentication using firebase
 
-* <strong>Programmers Blog</strong>
-  * Live Link: https://programmers-blog-68efb.web.app/
-  * Description: A website where programmers can read, write and update blogs and comment on on others blod.
-  * Features:
-    * Responsive Design
-    * Authentication using firebase
-    * Google SignIn
-    * JWT authentication using cookie
-    * Add Blog for logged user
-    * Update your own blog
-    * Comment on others blog
-    * Wishlist for saving which blog to read
+- <strong>IT Asset Management System</strong>
 
-* <strong>Halo Cosmetics & Beauty</strong>
-  * Live Link: https://halo-cosmetics.web.app/
-  * Description: A website for a group company where customers can buy products from different brands of the group.
-  * Features:
-    * Responsive Design
-    * Authentication using firebase
-    * Facebook SignIn
-    * JWT authentication using cookie
-    * Add Product for logged user
-    * Cart for which products are bought
+  - Live Link: https://assetit-18c66.web.app/
+  - Description: A website for a service provider company who provides an IT Asset mangement system for companies.
+  - Features:
+    - Responsive Design
+    - Authentication using firebase
+    - Google SignIn
+    - JWT authentication using cookie
+    - Provide singnup as an employee and admin
+    - Stripe Payment Integration
+    - Admin can create, add and delete assets
+    - Admin can accept or reject requests by employee
+    - Admin can add employee to the company
+    - Employees can make request for existing request or make an custom request for asset
+
+- <strong>Programmers Blog</strong>
+
+  - Live Link: https://programmers-blog-68efb.web.app/
+  - Description: A website where programmers can read, write and update blogs and comment on on others blod.
+  - Features:
+    - Responsive Design
+    - Authentication using firebase
+    - Google SignIn
+    - JWT authentication using cookie
+    - Add Blog for logged user
+    - Update your own blog
+    - Comment on others blog
+    - Wishlist for saving which blog to read
+
+- <strong>Halo Cosmetics & Beauty</strong>
+  - Live Link: https://halo-cosmetics.web.app/
+  - Description: A website for a group company where customers can buy products from different brands of the group.
+  - Features:
+    - Responsive Design
+    - Authentication using firebase
+    - Facebook SignIn
+    - JWT authentication using cookie
+    - Add Product for logged user
+    - Cart for which products are bought
 
 ## 👥 Connect With Me:
 
