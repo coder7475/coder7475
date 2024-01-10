@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-## ✅ My Contributions:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
-
 ## ⚡ Languages I Use:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
@@ -142,3 +138,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
+
+## ✅ My Contributions:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
