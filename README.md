@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
+## ✅ My Contributions:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)]
+
+
 ## ⚡ Languages I Use:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
@@ -69,10 +74,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-## ✅ My Contributions:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats)
 
 
 ## 🎆 My Latest Projects:
