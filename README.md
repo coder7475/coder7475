@@ -138,8 +138,7 @@ Here are some ideas to get you started:
 
 
 ## ✅ My Contributions:
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) -->
 
