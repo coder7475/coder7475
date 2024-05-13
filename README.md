@@ -137,6 +137,16 @@ Here are some ideas to get you started:
 </div>
 
 
+<table cellpadding="0">
+  <tr style="padding: 0">
+<!--     GitHub Stats Card -->   
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=coder7475&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+
+
 ## ✅ My Contributions:
 <!--[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) -->
 <!-- 
