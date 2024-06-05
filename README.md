@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,jira,vscode,git" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,gemini,vite,github" />
+    <img src="https://skillicons.dev/icons?i=postman,discord,vite,github" />
   </a>
 </p>
 
