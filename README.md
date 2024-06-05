@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
 
-
+![](https://github-readme-stats.vercel.app/api?username=coder7475&show_icons=true&theme=radical)
 
 ## 👨‍💻 Technology I Use:
 
