@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Languages I Use:
-<div class="display: flex;"> 
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475&layout=compact)
+  
 
 ## 👨‍💻 Technology I Use:
 
