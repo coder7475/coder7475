@@ -32,51 +32,37 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,redux" />
-  </a>
 </p>
 
 <p >
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,python,mongodb,postgres,vitest,cypress" />
-  </a>
 </p>
 
 ## 🔧 My Tools:
 
 <p >
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash" />
-  </a>
 </p>
 
 <p >
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,discord,vite,github,npm" />
-  </a>
 </p>
 
 
 ## 👥 Connect With Me:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
+<div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
   </a>
   
   <a href="mailto:robiulhossain7475@gmail.com">
-     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
   </a>
   
   <a href="https://x.com/robiul7475">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
   </a>
 </div>
 
