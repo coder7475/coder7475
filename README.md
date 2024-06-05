@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb,postgress,mongoose,zod" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb,postgres,mongoose,zod" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,swagger,vite,github" />
+    <img src="https://skillicons.dev/icons?i=postman,gemini,vite,github" />
   </a>
 </p>
 
