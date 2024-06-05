@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Languages I Use:
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475)
   
 
 ## 👨‍💻 Technology I Use:
