@@ -29,10 +29,14 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Languages I Use:
-
+<a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
 
+</a>
+<a>
+
 ![](https://github-readme-stats.vercel.app/api?username=coder7475&show_icons=true&theme=radical)
+</a>
 
 ## 👨‍💻 Technology I Use:
 
