@@ -62,22 +62,27 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
   </a>
   
   <a href="mailto:robiulhossain7475@gmail.com">
-    <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
   </a>
   
-  <a href="https://www.facebook.com/rhfahadchy">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://x.com/robiul7475">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
   </a>
 </div>
 
 
 ## ✅ My Stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
