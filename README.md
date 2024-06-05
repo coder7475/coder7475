@@ -53,17 +53,9 @@ Here are some ideas to get you started:
 ## 👥 Connect With Me:
 
 <div>
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:robiulhossain7475@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
-  <a href="https://x.com/robiul7475">
       <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </div>
 
 
