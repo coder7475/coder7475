@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </p> -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, javascript, tailwindcss, react, nextjs, redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,nextjs,redux" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase, nodejs, expressjs, mongodb, postgress, mongoose, zod" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb,postgress,mongoose,zod" />
   </a>
 </p>
 
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux, windows, vscode, git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman, swagger, vite, github" />
+    <img src="https://skillicons.dev/icons?i=postman,swagger,vite,github" />
   </a>
 </p>
 
