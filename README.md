@@ -24,22 +24,22 @@ Here are some ideas to get you started:
 -->
 
 
-## 👨‍💻 Technology I Use:
+## 👨‍💻 Technologies:
 
 <!-- <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p> -->
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,react,nextjs,redux" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb,postgres,vitest,cypress" />
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,python,mongodb,postgres,vitest,cypress" />
   </a>
 </p>
 
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash" />
   </a>
 </p>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,discord,vite,github" />
+    <img src="https://skillicons.dev/icons?i=postman,discord,vite,github,npm" />
   </a>
 </p>
 
