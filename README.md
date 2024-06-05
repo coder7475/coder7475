@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## ⚡ Languages I Use:
 <div class="display: flex;"> 
-  <a>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-  </a>
+  
 <div>
 
 ## 👨‍💻 Technology I Use:
