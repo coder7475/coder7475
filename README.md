@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss,react,nextjs,redux,firebase" />
 </p>
 
 <p >
-    <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,prisma,mongodb,postgres,jest,vitest,cypress" />
+    <img src="https://skillicons.dev/icons?i=nodejs,deno,expressjs,prisma,mongodb,postgres,jest,vitest,cypress,docker" />
 </p>
 
 ## 🔧 Tools:
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <p >
-    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto" />
 </p>
 
 
