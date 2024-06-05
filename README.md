@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=firebase,nodejs,expressjs,python,mongodb,postgres,vitest,cypress" />
 </p>
 
-## 🔧 My Tools:
+## 🔧 Tools:
 
 <p >
     <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash" />
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 
 
 
-## ✅ My Stats:
+## ✅ Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 -->
-## 👥 Connect With Me:
+## 👥 Connect:
 
 <div>
   <img src="https://skillicons.dev/icons?i=linkedin" />
