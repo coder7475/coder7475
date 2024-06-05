@@ -50,13 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 👥 Connect With Me:
 
-<div>
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-      <img src="https://skillicons.dev/icons?i=gmail" />
-      <img src="https://skillicons.dev/icons?i=twitter" />
-</div>
 
 
 ## ✅ My Stats:
@@ -65,3 +59,12 @@ Here are some ideas to get you started:
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 -->
+## 👥 Connect With Me:
+
+<div>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  
+  <img src="https://skillicons.dev/icons?i=gmail" />
+      
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</div>
