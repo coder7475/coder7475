@@ -1,18 +1,18 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png"  />
 </div>
-
+!-->
 ## 📖 Overview
 
 - 👑 I'm skilled in html, css & javascript
 - 🖊️ I'm proficient in creating user interface using react.js
-- 🔭 I’m currently exploring typeScript and next.js to skill up
-- 🌱 I’m passionate about backend developement, currently learning node.js and mongodb
+- 🔭 I’m currently exploring typeScript, mongoose, zod and mongodb to skill up
+- 🌱 I’m passionate about backend developement
 - 📫 How to reach me: robiulhossain7475@gmail.com
-
+<!---
 ## 🚀 About Me:
 
-Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
+Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment. !--->
 
 <!--
 **coder7475/coder7475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-## ⚡ Languages I Use:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475)]
 
 ## 👨‍💻 Technology I Use:
 
@@ -83,7 +80,7 @@ Here are some ideas to get you started:
 
 ## ✅ My Contributions:
 <!--[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) -->
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
