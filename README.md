@@ -12,9 +12,7 @@
 
 ## 🚀 About Me:
 
-Hello! I'm Robiul Hossain, a Front End Web Developer.
-My goal is to become a full stack web developer focusing on MERN stack.
-As a newcomer to the professional realm of web development, I am actively seeking opportunities to kickstart my career.
+Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
 
 <!--
 **coder7475/coder7475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,14 +27,14 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Languages I Use:
-<a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
-
-</a>
-<a>
-
-![](https://github-readme-stats.vercel.app/api?username=coder7475&show_icons=true&theme=radical)
-</a>
+<div class="display: flex;"> 
+  <a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)
+  </a>
+  <a>
+    ![](https://github-readme-stats.vercel.app/api?username=coder7475&show_icons=true&theme=radical)
+  </a>
+<div>
 
 ## 👨‍💻 Technology I Use:
 
@@ -87,9 +85,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
-
-
 
 
 ## ✅ My Contributions:
