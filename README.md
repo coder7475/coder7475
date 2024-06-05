@@ -59,12 +59,20 @@ Here are some ideas to get you started:
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 -->
-## 👥 Connect:
+## 👥 Connect Via:
 
 <div>
+  <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
-  
+  </a>
+  <a href="mailto:robiulhossain7475@gmail.com">
+    
   <img src="https://skillicons.dev/icons?i=gmail" />
-      
+  </a>
+
+  <a href="https://x.com/robiul7475">
   <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+  
+ 
 </div>
