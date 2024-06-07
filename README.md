@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ## 🔧 My Tools
 
 <p >
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm,babel" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm,vercel" />
 </p>
 
 <p >
-    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto,yarn" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto,yarn,nginx" />
 </p>
 
 ## 👥 Connect With Me
