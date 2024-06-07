@@ -4,12 +4,16 @@
 !-->
 ## 📖 Overview
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
 
+🌐 My toolbox helps me architect scalable and robust solutions for various projects.
+
+🧪 I'm a firm believer in the power of testing and adhering to best practices throughout the development lifecycle.
+
+💡 I like exploring the latest advancements in web technologies, experimenting with new frameworks, tools and techniques.
 <!---
 ## 🚀 About Me:
 
-Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment. !--->
 
 <!--
 **coder7475/coder7475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m thinking about creating
 - 👯 I’m looking to collaborate on ...
 - 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 -  Fun fact: ...
 -->
 
@@ -54,6 +58,8 @@ Here are some ideas to get you started:
 
 
 ## ✅ Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
