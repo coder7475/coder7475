@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     </a>
   
 
-## ✅ My Stats:
+## ✅ My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
