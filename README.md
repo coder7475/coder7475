@@ -62,8 +62,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6)
-</
-  p>
+</p>
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
@@ -71,17 +70,14 @@ Here are some ideas to get you started:
 
 
 ## 👥 Connect With Me
-<p>
+
   
-![<img  src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)
-  
+![<p><img  src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)
   <a href="mailto:robiulhossain7475@gmail.com" target="_blank" class="padding: 2px;">  
    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  
   <a href="https://x.com/robiul7475" target="_blank" class="padding: 2px;">
    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-
 </p>
 
