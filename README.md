@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ## 👥 Connect With Me
 
-  ![<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/robiul-hossain-298298265/)
+  [<p><img src="https://skillicons.dev/icons?i=linkedin" /></p>](https://www.linkedin.com/in/robiul-hossain-298298265/)
   
   <a href="mailto:robiulhossain7475@gmail.com" target="_blank" class="padding: 2px;">  
    <img src="https://skillicons.dev/icons?i=gmail" />
