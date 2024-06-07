@@ -72,12 +72,6 @@ Here are some ideas to get you started:
 ## 👥 Connect With Me
 
 <br/>
-![<p><img src="https://skillicons.dev/icons?i=linkedin"></p>](https://www.linkedin.com/in/robiul-hossain-298298265/)
-  <a href="mailto:robiulhossain7475@gmail.com" target="_blank" class="padding: 2px;">  
-   <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://x.com/robiul7475" target="_blank" class="padding: 2px;">
-   <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+[<p><img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" /></p>](https://x.com/robiul7475)
 
 </br>
