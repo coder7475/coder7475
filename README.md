@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/coder7475/coder7475/main/banner.png"  />
 </div>
 !-->
-## 📖 Overview
+## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👨‍💻 Technologies:
+## 👨‍💻 My Skills
 
 <!-- <p>
   <a href="https://skillicons.dev">
@@ -43,29 +43,17 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,deno,expressjs,prisma,mongodb,postgres,jest,vitest,cypress,docker" />
 </p>
 
-## 🔧 Tools:
+## 🔧 My Tools
 
 <p >
-    <img src="https://skillicons.dev/icons?i=mint,windows,vscode,git,bash,npm" />
+    <img src="https://skillicons.dev/icons?i=mint,windows,vscode,git,bash,npm,pnpm" />
 </p>
 
 <p >
-    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto,yarn" />
 </p>
 
-
-
-
-
-## ✅ Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
-<!--
- [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
--->
-## 👥 Connect Via:
+## 👥 Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
@@ -80,5 +68,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
   
- 
+
+## ✅ My Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+<!--
+ [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
+-->
+
 </div>
