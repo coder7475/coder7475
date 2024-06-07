@@ -71,7 +71,5 @@ Here are some ideas to get you started:
 
 ## 👥 Connect With Me
 
-<br/>
 [<p><img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/) [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com) [<img src="https://skillicons.dev/icons?i=twitter" /> </p>](https://x.com/robiul7475)
 
-</br>
