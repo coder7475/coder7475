@@ -36,17 +36,17 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss,react,solid,nextjs,redux,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,tailwindcss,materialui,react,nextjs,redux,firebase" />
 </p>
 
 <p >
-    <img src="https://skillicons.dev/icons?i=nodejs,deno,expressjs,prisma,mongodb,postgres,jest,vitest,cypress,docker,bun" />
+    <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,expressjs,prisma,mongodb,postgres,jest,vitest,cypress,docker" />
 </p>
 
 ## 🔧 My Tools
 
 <p >
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm,babel" />
 </p>
 
 <p >
