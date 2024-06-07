@@ -52,32 +52,37 @@ Here are some ideas to get you started:
 <p >
     <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto,yarn,nginx,docker" />
 </p>
+ 
+
+## ✅ My Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6)
+<!--
+ [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
+-->
+
 
 ## 👥 Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/robiul-hossain-298298265/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+ </div>
+    <div>
+      
   </a>
   <a href="mailto:robiulhossain7475@gmail.com">
     
   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
+    </div>
+<div>
+  
   <a href="https://x.com/robiul7475">
   <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
-  
-
-## ✅ My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utc=6)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
-<!--
- [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
--->
-
 </div>
