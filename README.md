@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6)
 </p>
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
