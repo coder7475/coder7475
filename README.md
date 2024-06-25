@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 ### 🏃 My Practices
 
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-yellow)](https://leetcode.com/u/robiul_hossain/)
-[![FreeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
-[![CodeForces](https://img.shields.io/badge/Profile-CodeForces-blue)](https://codeforces.com/profile/robiulhossain7475)
+[![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
+[![Codeforces](https://img.shields.io/badge/Profile-Codeforces-blue)](https://codeforces.com/profile/robiulhossain7475)
 [![Exercism](https://img.shields.io/badge/Profile-Exercism-navy)](https://exercism.org/profiles/coder7475)
 
 <!-- <p >
