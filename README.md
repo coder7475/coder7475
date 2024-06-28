@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-yellow)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![Codeforces](https://img.shields.io/badge/Profile-Codeforces-blue)](https://codeforces.com/profile/robiulhossain7475)
-[![Exercism](https://img.shields.io/badge/Profile-Exercism-navy)](https://exercism.org/profiles/coder7475)
 
 <!-- <p >
     <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm,vercel,firebase" />
