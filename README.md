@@ -105,6 +105,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 -->
 
-## 👥 Connect With Me ![coder7475](https://komarev.com/ghpvc/username=coder7475) 
+## 👥 Connect With Me  
 
 [<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
