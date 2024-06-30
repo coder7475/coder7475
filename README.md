@@ -3,7 +3,7 @@
 </div>
 !-->
 
-## 📖 About Me ![coder7475](https://komarev.com/ghpvc/?username=coder7475&style=for-the-badge)
+## 📖 About Me ![coder7475](https://komarev.com/ghpvc/?username=coder7475)
 
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
