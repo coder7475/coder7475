@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
-
+![coder7475](https://komarev.com/ghpvc/?username=coder7475)
 </p>
 <!--
  [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
@@ -109,5 +109,5 @@ Here are some ideas to get you started:
 
 [<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
 
-![coder7475](https://komarev.com/ghpvc/?username=coder7475)
+
 
