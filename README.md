@@ -6,7 +6,7 @@
 ## 📖 About Me 
 
 
-👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on backend devleopment.
+👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
 
 🌐 My toolbox helps me architect scalable and robust solutions for various projects.
 
