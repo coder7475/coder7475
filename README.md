@@ -5,7 +5,7 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" width="652" alt="Fahad's Dev Card"/></a>
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png?type=wide&r=l8y" width="652" alt="Fahad's Dev Card"/></a>
 
 ## 📖 About Me
 
