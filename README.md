@@ -3,8 +3,11 @@
 </div>
 !-->
 
-## 📖 About Me 
+<!-- dev card from daily dev  -->
 
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" width="652" alt="Fahad's Dev Card"/></a>
+
+## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
 
@@ -105,6 +108,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
 -->
 
-## 👥 Connect With Me  
+## 👥 Connect With Me
 
 [<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
