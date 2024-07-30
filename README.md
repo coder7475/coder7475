@@ -5,8 +5,6 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="652" alt="Fahad's Dev Card"/></a>
-
 ## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
@@ -86,13 +84,9 @@ Here are some ideas to get you started:
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![Codeforces](https://img.shields.io/badge/Profile-Codeforces-blue)](https://codeforces.com/profile/robiulhossain7475)
 
-<!-- <p >
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,npm,pnpm,vercel,firebase" />
-</p>
+## 👥 Connect With Me
 
-<p >
-    <img src="https://skillicons.dev/icons?i=postman,figma,vite,github,notion,devto,yarn,nginx,docker" />
-</p> -->
+[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
 
 ## ✅ My Stats
 
@@ -102,12 +96,6 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="652" alt="Fahad's Dev Card"/></a>
+
 </p>
-<!--
- [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=coder7475&theme=vue-dark)](https://git.io/streak-stats) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder7475&theme=blue_green&utcOffset=6) 
--->
-
-## 👥 Connect With Me
-
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
