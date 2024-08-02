@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-yellow)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
-[![Codeforces](https://img.shields.io/badge/Profile-Codeforces-blue)](https://codeforces.com/profile/robiulhossain7475)
 
 ## 👥 Connect With Me
 
@@ -90,10 +89,10 @@ Here are some ideas to get you started:
 
 <p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="652" alt="Fahad's Dev Card"/></a>
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="full" alt="Fahad's Dev Card"/></a>
 
 </p>
