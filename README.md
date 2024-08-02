@@ -57,26 +57,24 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🔧 My Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F56723?style=flat-square&logo=Postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-324C6C?style=flat-square&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F0503C?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1210A6?style=flat-square&logo=github&logoColor=black)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=yellow)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F56723?style=flat-square&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-C4C7CC?style=flat-square&logo=notion&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-324C6C?style=flat-square&logo=gnu&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-E8232D?style=flat-square&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2CC41A?style=flat-square&logo=yarn&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-43B581?style=flat-square&logo=pnpm&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-0076C8?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🏃 My Practices
 
