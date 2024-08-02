@@ -13,7 +13,7 @@
 
 🧪 I'm a firm believer in the power of testing and adhering to best practices throughout the development lifecycle.
 
-💡 I like exploring the latest advancements in web technologies, experimenting with new frameworks, tools and techniques.
+💡 I like exploring the latest advancements in technologies, experimenting with new frameworks, tools and techniques.
 
 <!---
 ## 🚀 About Me:
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
