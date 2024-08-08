@@ -5,6 +5,8 @@
 
 <!-- dev card from daily dev  -->
 
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="700" alt="Fahad's Dev Card"/></a>
+
 ## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
@@ -55,7 +57,6 @@ Here are some ideas to get you started:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -66,7 +67,6 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Bash-324C6C?style=flat-square&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F0503C?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1210A6?style=flat-square&logo=github&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=yellow)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F56723?style=flat-square&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-C4C7CC?style=flat-square&logo=notion&logoColor=black)
@@ -93,6 +93,5 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="700" alt="Fahad's Dev Card"/></a>
 
 </p>
