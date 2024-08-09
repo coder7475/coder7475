@@ -5,7 +5,7 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="800" alt="Fahad's Dev Card"/></a>
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="800" alt="Fahad's Dev Card"/></a>
 
 ## 📖 About Me
 
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
