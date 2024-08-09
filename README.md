@@ -5,7 +5,7 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="700" alt="Fahad's Dev Card"/></a>
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png" style="filter: brightness(50%);" width="800" alt="Fahad's Dev Card"/></a>
 
 ## 📖 About Me
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
