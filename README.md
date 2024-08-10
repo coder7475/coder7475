@@ -65,10 +65,9 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-324C6C?style=flat-square&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F0503C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1210A6?style=flat-square&logo=github&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-1210A6?style=flat-square&logo=github&logoColor=blaofck)
 ![Nginx](https://img.shields.io/badge/Nginx-0076C8?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F56723?style=flat-square&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-C4C7CC?style=flat-square&logo=notion&logoColor=black)
@@ -76,11 +75,11 @@ Here are some ideas to get you started:
 ![yarn](https://img.shields.io/badge/yarn-2CC41A?style=flat-square&logo=yarn&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-43B581?style=flat-square&logo=pnpm&logoColor=black)
 
-### 🏃 My Practices
+### 🏃 My Profiles
 
-[![LeetCode](https://img.shields.io/badge/Profile-LeetCode-yellow)](https://leetcode.com/u/robiul_hossain/)
-
-[![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
+[![LeetCode](https://img.shields.io/badge/Profile-LeetCode-orange)](https://leetcode.com/u/robiul_hossain/)
+[![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-slate)](https://www.freecodecamp.org/coder7475)
+[![freeCodeCamp](https://img.shields.io/badge/Profile-DEV-black)](https://dev.to/coder7475)
 
 ## 👥 Connect With Me
 
