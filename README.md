@@ -48,17 +48,17 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,expressjs,prisma,mongodb,postgres,jest,vitest,cypress" />
 </p> -->
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔧 My Tools
 
@@ -66,18 +66,20 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Bash-324C6C?style=flat-square&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F0503C?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1210A6?style=flat-square&logo=github&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-0076C8?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F56723?style=flat-square&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-C4C7CC?style=flat-square&logo=notion&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-E8232D?style=flat-square&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2CC41A?style=flat-square&logo=yarn&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-43B581?style=flat-square&logo=pnpm&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-0076C8?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🏃 My Practices
 
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-yellow)](https://leetcode.com/u/robiul_hossain/)
+
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 
 ## 👥 Connect With Me
