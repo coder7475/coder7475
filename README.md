@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 ### 🏃 My Profiles
 
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-orange)](https://leetcode.com/u/robiul_hossain/)
-[![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-slate)](https://www.freecodecamp.org/coder7475)
-[![freeCodeCamp](https://img.shields.io/badge/Profile-DEV-black)](https://dev.to/coder7475)
+[![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
+[![dev.to](https://img.shields.io/badge/Profile-DEV-white)](https://dev.to/coder7475)
 
 ## 👥 Connect With Me
 
