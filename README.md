@@ -7,7 +7,7 @@
 
 <a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="800" alt="Fahad's Dev Card"/></a>
 
-## 📖 About Me
+## 📖 About Me [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
 
