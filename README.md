@@ -5,9 +5,9 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="800" alt="Fahad's Dev Card"/></a>
+<a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="755" alt="Fahad's Dev Card"/></a>
 
-## 📖 About Me      [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+## 📖 About Me [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
 
@@ -17,8 +17,10 @@
 
 💡 I like exploring the latest advancements in technologies, experimenting with new frameworks, tools and techniques.
 
+🚀 Currently I am tackling the field of DevOps Engineering.
+
 <!---
-## 🚀 About Me:
+##  About Me:
 
 
 <!--
@@ -47,6 +49,7 @@ Here are some ideas to get you started:
 <p >
     <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,expressjs,prisma,mongodb,postgres,jest,vitest,cypress" />
 </p> -->
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -81,15 +84,14 @@ Here are some ideas to get you started:
 
 ## 👥 Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:robiulhossain7475@gmail.com)[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/robiul7475)[<img src="https://skillicons.dev/icons?i=leetcode" />](https://x.com/robiul7475)
+[<img src="./images/linkedin.png" height=60 />](https://www.linkedin.com/in/robiul-hossain-298298265/)[<img src="./images/Gmail.png" height=60 />](mailto:robiulhossain7475@gmail.com)[<img  />](https://x.com/robiul7475)[<img src="./images/x-logo.png" height=60 />](https://x.com/robiul7475)
 
 ## ✅ My Stats
 
 <p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
-
 
 </p>
