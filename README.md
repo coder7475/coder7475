@@ -7,7 +7,9 @@
 
 <a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="755" alt="Fahad's Dev Card"/></a>
 
-## 📖 About Me [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+
+## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
 
@@ -82,10 +84,6 @@ Here are some ideas to get you started:
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![dev.to](https://img.shields.io/badge/Profile-DEV-white)](https://dev.to/coder7475)
 
-## 👥 Connect With Me
-
-[<img src="./images/linkedin.png" height=60 />](www.linkedin.com/in/robiul7475)[<img src="./images/Gmail.png" height=60 />](mailto:robiulhossain7475@gmail.com)[<img  />](https://x.com/robiul7475)[<img src="./images/x-logo.png" height=60 />](https://x.com/robiul7475)
-
 ## ✅ My Stats
 
 <p>
@@ -95,3 +93,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
 </p>
+
+## 👥 Connect With Me
+
+[<img src="./images/linkedin.png" height=60 />](www.linkedin.com/in/robiul7475)[<img src="./images/Gmail.png" height=60 />](mailto:robiulhossain7475@gmail.com)[<img  />](https://x.com/robiul7475)[<img src="./images/x-logo.png" height=60 />](https://x.com/robiul7475)
