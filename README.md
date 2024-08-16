@@ -7,8 +7,6 @@
 
 <a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="755" alt="Fahad's Dev Card"/></a>
 
-[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
-
 ## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
@@ -83,6 +81,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-orange)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![dev.to](https://img.shields.io/badge/Profile-DEV-white)](https://dev.to/coder7475)
+[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 ## ✅ My Stats
 
