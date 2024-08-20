@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 
 ## 👥 Connect With Me
 
-[<img src="./images/linkedin.png" height=60 />](www.linkedin.com/in/robiul7475)[<img src="./images/Gmail.png" height=60 />](mailto:robiulhossain7475@gmail.com)[<img  />](https://x.com/robiul7475)[<img src="./images/x-logo.png" height=60 />](https://x.com/robiul7475)
+[<img src="./images/linkedin.png" height=60 />](https://www.linkedin.com/in/robiul7475/)[<img src="./images/Gmail.png" height=60 />](mailto:robiulhossain7475@gmail.com)[<img  />](https://x.com/robiul7475)[<img src="./images/x-logo.png" height=60 />](https://x.com/robiul7475)
