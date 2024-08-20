@@ -7,19 +7,18 @@
 
 <a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="755" alt="Fahad's Dev Card"/></a>
 
-[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
-
 ## 📖 About Me
 
-👋 Hello! I'm Robiul Hossain, a Software Engineer focusing on web devleopment.
+👋 Hello! I'm Robiul Hossain, a Software Engineer with a focus on web development.
 
-🌐 My toolbox helps me architect scalable and robust solutions for various projects.
+🌐 I specialize in architecting scalable and robust solutions across various projects.
 
-🧪 I'm a firm believer in the power of testing and adhering to best practices throughout the development lifecycle.
+🧪 I'm a strong advocate for the power of testing and following best practices throughout the development lifecycle.
 
-💡 I like exploring the latest advancements in technologies, experimenting with new frameworks, tools and techniques.
+💡 I'm passionate about exploring the latest advancements in technology, and I enjoy experimenting with new frameworks, tools, and techniques.
 
-🚀 Currently I am tackling the field of DevOps Engineering.
+🚀 Currently, I'm diving deep into the deployment and maintenance of software systems.
+
 
 <!---
 ##  About Me:
@@ -83,6 +82,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-orange)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![dev.to](https://img.shields.io/badge/Profile-DEV-white)](https://dev.to/coder7475)
+[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 ## ✅ My Stats
 
