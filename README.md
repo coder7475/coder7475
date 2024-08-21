@@ -5,8 +5,6 @@
 
 <!-- dev card from daily dev  -->
 
-<a href="https://app.daily.dev/coder74745"><img src="./devcard.png"  width="755" alt="Fahad's Dev Card"/></a>
-
 ## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer with a focus on web development.
@@ -18,7 +16,6 @@
 💡 I'm passionate about exploring the latest advancements in technology, and I enjoy experimenting with new frameworks, tools, and techniques.
 
 🚀 Currently, I'm diving deep into the deployment and maintenance of software systems.
-
 
 <!---
 ##  About Me:
@@ -91,6 +88,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=linux%2Cdevops%2Csoftware-architect%2C66a5058dee6a29a2eda820b1)](https://roadmap.sh)
 
 </p>
 
