@@ -11,15 +11,15 @@
 
 ## 📖 About Me
 
-👋 Hello! I'm Robiul Hossain, a Software Engineer with a focus on web development.
+👋 Hi there! I'm Robiul Hossain, a Software Engineer dedicated to crafting efficient and scalable web solutions.
 
-🌐 I specialize in architecting scalable and robust solutions across various projects.
+🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
 
-🧪 I'm a strong advocate for the power of testing and following best practices throughout the development lifecycle.
+🧪 I believe in the power of thorough testing and adhere to best practices throughout every phase of development.
 
-💡 I'm passionate about exploring the latest advancements in technology, and I enjoy experimenting with new frameworks, tools, and techniques.
+💡 I'm constantly exploring the cutting edge of technology, always eager to experiment with new frameworks, tools, and methodologies.
 
-🚀 Currently, I'm diving deep into the deployment and maintenance of software systems.
+🚀 Right now, I'm focused on mastering the deployment and maintenance of software systems.
 
 <!---
 ##  About Me:
@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ### 🔧 My Tools
 
