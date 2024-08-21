@@ -87,11 +87,11 @@ Here are some ideas to get you started:
 
 <p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=linux%2Cdevops%2Csoftware-architect%2C66a5058dee6a29a2eda820b1)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=linux%2Cdevops%2Csoftware-architect%2C66a5058dee6a29a2eda820b1)](https://roadmap.sh) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green) -->
 
 </p>
 
