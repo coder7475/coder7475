@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/SH-324C6C?style=flat-square&logo=gnu&logoColor=white)
 
 ### 🔧 My Tools
 
