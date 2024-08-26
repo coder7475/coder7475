@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 ## ✅ My Stats
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Csoftware-architect%2Clinux%2C66a5058dee6a29a2eda820b1)](https://roadmap.sh) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
+[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Ccyber-security%2Cmlops)](https://roadmap.sh) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder7475&theme=blue_green)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)  -->
 
