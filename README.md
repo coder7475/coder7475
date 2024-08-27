@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-### 👨‍💻 My Skills
+### 👨‍💻 My Skills ![DevCard](https://github.com/coder7475/coder7475/blob/main/.github/workflows/DevCard.yml/badge.svg)
 
 <!-- <p>
   <a href="https://skillicons.dev">
