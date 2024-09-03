@@ -10,6 +10,7 @@
 <!-- -->
 
 ## 📖 About Me
+[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 👋 Hi there! I'm Robiul Hossain, a Software Engineer dedicated to crafting efficient and scalable web solutions.
 
@@ -90,7 +91,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/Profile-LeetCode-orange)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/Profile-freeCodeCamp-black)](https://www.freecodecamp.org/coder7475)
 [![dev.to](https://img.shields.io/badge/Profile-DEV-white)](https://dev.to/coder7475)
-[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+[![dev.to](https://img.shields.io/badge/Profile-MicrosoftLearn-black)](https://learn.microsoft.com/en-us/users/robiulhossain-8017/achievements)
 
 ## ✅ My Stats
 
@@ -98,7 +99,7 @@ Here are some ideas to get you started:
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder7475&theme=blue_green)  -->
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
 
 ## 👥 Connect With Me
 
