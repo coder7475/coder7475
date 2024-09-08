@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 [![yaml](https://img.shields.io/badge/-YAML-cb171e.svg?style=flat&logo=yaml&logoColor=white)](https://yaml.org/)
 ![Shell Scripting](https://img.shields.io/badge/.sh-000?style=flat-square&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90E2?style=flat-square&logo=jenkins&logoColor=white)
 
 ### 🔧 My Tools
