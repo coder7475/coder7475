@@ -76,9 +76,12 @@
 
 ## ✅ My Stats
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Ccyber-security%2Cbackend%2Cmlops)](https://roadmap.sh)
-
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green)
+<div align="center">
+    <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Ccyber-security%2Cbackend%2Cmlops" alt="roadmap.sh" />
+    </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
+</div>
 
 ## 👥 Connect With Me
 
