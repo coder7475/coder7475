@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 ![npm](https://img.shields.io/badge/npm-E8232D?style=flat-square&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2CC41A?style=flat-square&logo=yarn&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-43B581?style=flat-square&logo=pnpm&logoColor=black)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 ### 🏃 My Profiles
 
