@@ -6,8 +6,6 @@
 
 ## 📖 About Me
 
-[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
-
 👋 Hi there! I'm Robiul Hossain, a Software Engineer dedicated to crafting efficient and scalable web solutions.
 
 🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
@@ -72,7 +70,7 @@
 
 </div>
 
-## ✅ My Stats
+## ✅ My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 <div align="center">
     <a href="https://roadmap.sh">
