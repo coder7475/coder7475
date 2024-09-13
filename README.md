@@ -68,6 +68,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/coder7475)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/coder7475)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/coder74745)
 
 </div>
 
@@ -75,18 +76,18 @@
 
 <div align="center">
     <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Ccyber-security%2Cbackend%2Cmlops" alt="roadmap.sh" />
+        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=linux%2Cdevops%2Ccyber-security%2Cbackend" alt="roadmap.sh" />
     </a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
+    
 </div>
 
 ## 👥 Connect With Me
 
 <div align="center">
-<div style="width: 100%; display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/robiul7475/"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
-    <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
-    <a href="https://x.com/robiul7475"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
-</div>
-
+    <div style="width: 100%; display: flex; justify-content: center;">
+        <a href="https://www.linkedin.com/in/robiul7475/"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://x.com/robiul7475"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
+    </div>
 </div>
