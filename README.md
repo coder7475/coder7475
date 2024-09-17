@@ -14,7 +14,7 @@
 
 💡 I'm constantly exploring the cutting edge of technology, always eager to experiment with new frameworks, tools, and methodologies.
 
-🚀 Right now, I'm focused on mastering the deployment, maintenance, and automation of software systems.
+🚀 Right now, I'm focused on mastering the deployment, maintenance, security and automation of software systems.
 
 ### 👨‍💻 My Skills
 
