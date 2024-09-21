@@ -76,7 +76,7 @@
 
 <div align="center">
     <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=linux%2Cdevops%2Ccyber-security%2Cbackend" alt="roadmap.sh" />
+        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Ccyber-security%2Cbackend" alt="roadmap.sh" />
     </a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
     
