@@ -89,5 +89,6 @@
         <a href="https://www.linkedin.com/in/robiul7475/"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
         <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
         <a href="https://x.com/robiul7475"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://dly.to/VgMLbgyno0F"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
     </div>
 </div>
