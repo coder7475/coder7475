@@ -16,7 +16,7 @@
 
 🚀 Right now, I'm focused on mastering the deployment, maintenance, security and automation of software systems.
 
-### 👨‍💻 My Skills
+## 👨‍💻 My Skills
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-### 🔧 My Tools
+## 🔧 My Tools
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 </div>
 
-### 🏃 My Profiles
+## 🏃 My Profiles
 
 <div align="center">
 
