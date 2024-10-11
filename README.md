@@ -81,9 +81,23 @@
 </div>
 
 <div align="center">
-   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
-    
+    <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Clinux%2Cgit-github" alt="roadmap.sh"/>
+    </a>
+   
+</div>
+
+</div>
+
+<div align="center">
+<a href="https://holopin.io/@coder7475">
+        <img src="https://holopin.me/coder7475"  alt="Holopin Badge" width="568" />
+    </a>
+</div>
+<div align="center">
+
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
+
 </div>
 
 ## 👥 Connect With Me
