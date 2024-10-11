@@ -72,12 +72,16 @@
 
 </div>
 
-## ✅ My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+## ✅ My Stats
 
 <div align="center">
-    <a href="https://roadmap.sh">
-        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Ccyber-security%2Cprompt-engineering" alt="roadmap.sh"/></a>
-    </a>
+
+![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+
+</div>
+
+<div align="center">
+   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Clinux%2Cgit-github" alt="roadmap.sh"/></a>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
     
 </div>
