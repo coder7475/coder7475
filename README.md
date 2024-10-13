@@ -6,7 +6,7 @@
 
 ## 📖 About Me
 
-👋 Hi there! I'm Robiul Hossain, a Software Engineer dedicated to crafting efficient and scalable web solutions.
+👋 Hi! I'm Robiul Hossain, a Software engineer focused on web technologies, working with **JavaScript**, **TypeScript**, and **Python**.
 
 🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
 
