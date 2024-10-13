@@ -18,6 +18,8 @@
 
 🔐 Recently, I’ve been exploring cybersecurity—learning about real-world issues and challenges is fascinating to me!
 
+🚀 At OctopusX, I manage deployments and app maintenance with Docker, Nginx, and GitHub Actions, constantly finding ways to improve workflows
+
 ## 👨‍💻 My Skills
 
 <div align="left">
