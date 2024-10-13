@@ -12,11 +12,11 @@
 
 🌱 Always learning! Lately, I’ve been exploring system design to build more scalable and efficient applications
 
-🧪 I believe in the power of thorough testing and adhere to best practices throughout every phase of development.
+🛠️ I’m a big believer in DevOps and love automating things to make life easier
 
-💡 I'm constantly exploring the cutting edge of technology, always eager to experiment with new frameworks, tools, and methodologies.
+🧪 I enjoy testing my code with Vitest, Cypress, and Jest to keep things running smoothly
 
-🚀 Right now, I'm focused on mastering the deployment, maintenance, security and automation of software systems.
+🔐 Recently, I’ve been exploring cybersecurity—learning about real-world issues and challenges is fascinating to me!
 
 ## 👨‍💻 My Skills
 
