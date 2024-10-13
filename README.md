@@ -18,7 +18,7 @@
 
 ## 👨‍💻 My Skills
 
-<div align="center">
+<div align="left">
 
 ### 🗣️ Languages
 
@@ -54,7 +54,7 @@
 
 ## 🔧 My Tools
 
-<div align="center">
+<div align="left">
 
 ### 🖥️ Operating Systems & Shells
 
@@ -98,7 +98,7 @@
 
 ## 🏃 My Profiles
 
-<div align="center">
+<div align="left">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/robiul_hossain/)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/coder7475)
@@ -109,13 +109,13 @@
 
 ## ✅ My Stats
 
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 </div>
 
-<div align="center">
+<div align="left">
     <a href="https://roadmap.sh">
         <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Clinux%2Cgit-github" alt="roadmap.sh"/>
     </a>
@@ -124,12 +124,12 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 <a href="https://holopin.io/@coder7475">
         <img src="https://holopin.me/coder7475"  alt="Holopin Badge" width="568" />
     </a>
 </div>
-<div align="center">
+<div align="left">
 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
 
@@ -137,7 +137,7 @@
 
 ## 👥 Connect With Me
 
-<div align="center">
+<div align="left">
     <div style="width: 100%; display: flex; justify-content: center;">
         <a href="https://www.linkedin.com/in/robiul7475/"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
         <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
