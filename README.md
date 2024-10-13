@@ -10,7 +10,7 @@
 
 🏗️ Specializing in backend development using Node.js, Express.js, MongoDB, and PostgreSQL.
 
-🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
+🌱 Always learning! Lately, I’ve been exploring system design to build more scalable and efficient applications
 
 🧪 I believe in the power of thorough testing and adhere to best practices throughout every phase of development.
 
