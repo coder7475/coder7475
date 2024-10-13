@@ -8,6 +8,8 @@
 
 👋 Hi! I'm Robiul Hossain, a Software engineer focused on web technologies, working with **JavaScript**, **TypeScript**, and **Python**.
 
+🏗️ Specializing in backend development using Node.js, Express.js, MongoDB, and PostgreSQL.
+
 🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
 
 🧪 I believe in the power of thorough testing and adhere to best practices throughout every phase of development.
