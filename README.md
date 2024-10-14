@@ -6,15 +6,19 @@
 
 ## 📖 About Me
 
-👋 Hi there! I'm Robiul Hossain, a Software Engineer dedicated to crafting efficient and scalable web solutions.
+👋 Hello! I'm Robiul Hossain, a Software Engineer specializing in web technologies, particularly JavaScript, TypeScript, and Python.
 
-🌐 My expertise lies in building robust architectures for diverse projects, ensuring they are both reliable and scalable.
+🏗️ I focus on backend development, utilizing Node.js, Express.js, MongoDB, and PostgreSQL to create robust applications.
 
-🧪 I believe in the power of thorough testing and adhere to best practices throughout every phase of development.
+🌱 I am committed to continuous learning; recently, I've been delving into system design to develop more scalable and efficient solutions.
 
-💡 I'm constantly exploring the cutting edge of technology, always eager to experiment with new frameworks, tools, and methodologies.
+🛠️ As a strong advocate for DevOps, I enjoy automating processes to enhance productivity and streamline workflows.
 
-🚀 Right now, I'm focused on mastering the deployment, maintenance, security and automation of software systems.
+🧪 I prioritize code quality and reliability, employing testing frameworks like Vitest, Cypress, and Jest to ensure smooth operation.
+
+🔐 My recent interest in cybersecurity has led me to explore real-world challenges and issues, which I find incredibly engaging.
+
+🚀 At OctopusX, I oversee deployments and application maintenance using Docker, Nginx, and GitHub Actions, always seeking opportunities for workflow improvement.
 
 ## 👨‍💻 My Skills
 
@@ -93,6 +97,8 @@
 ### 💬 Communication
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
