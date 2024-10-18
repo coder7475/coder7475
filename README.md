@@ -81,7 +81,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VSCode Logo](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📦 API Testing & Documentation
 
@@ -124,9 +123,7 @@
 </div>
 
 <div align="left">
-    <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Clinux%2Cgit-github" alt="roadmap.sh"/>
-    </a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Cmlops%2Ccyber-security" alt="roadmap.sh"/></a>
    
 </div>
 
