@@ -66,7 +66,6 @@
 ### 🖥️ Operating Systems & Shells
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=zsh&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-4A90E2?style=for-the-badge&logo=warp&logoColor=white)
