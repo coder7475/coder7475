@@ -114,11 +114,13 @@
 
 </div>
 
-## ✅ My Stats
+## ✅ My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
 
 <div align="left">
 
-![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+
+[![Fahad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
