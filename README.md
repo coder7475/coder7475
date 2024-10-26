@@ -120,7 +120,7 @@
 
 <div align="left">
 
-<div style="display: flex; gap: 30px;">
+<div style="display: flex; gap: 1px;">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
@@ -128,7 +128,7 @@
     </div>
     <div>
         <a href="https://roadmap.sh">
-            <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Cmlops%2Ccyber-security" alt="roadmap.sh" />
+            <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Csystem-design%2Cbackend" alt="roadmap.sh" />
         </a>
     </div>
 </div>
@@ -137,7 +137,7 @@
 
 </div>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 1px;">
     <div>
         <a href="https://holopin.io/@coder7475">
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
