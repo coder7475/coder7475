@@ -158,3 +158,5 @@
         <a href="https://dly.to/VgMLbgyno0F"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
     </div>
 </div>
+
+[Summary](https://focusmvp.retool.com/embedded/public/a4a644a9-a109-411f-a5dd-32035c1d4afb/profile)
