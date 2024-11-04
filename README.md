@@ -130,11 +130,6 @@
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
         </a>
     </div>
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475&theme=github_dark" alt="Top Languages" />
-        </a>
-    </div>
 </div>
 
 <div>
