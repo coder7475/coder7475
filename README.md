@@ -125,7 +125,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
-<div align="center">
+<div align="left">
 
 <div style="display: flex; justify-content: center; gap: 10px;" width="100%">
     <div>
@@ -135,7 +135,7 @@
     </div>
 </div>
 
-<div>
+<div align="left">
     <a href="https://roadmap.sh">
         <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Clinux%2Cdocker" alt="roadmap.sh" />
     </a>
@@ -143,7 +143,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
     <div>
         <a href="https://holopin.io/@coder7475">
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
