@@ -38,6 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend
 
@@ -76,11 +77,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🌐 Web Development Tools
+### 🌐 Web Development & Deployment Tools
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 📦 API Testing & Documentation
 
@@ -118,33 +120,37 @@
 
 [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
-<div align="left">
+<div align="center">
 
-<div style="display: flex; gap: 1px;">
+<div style="display: flex; justify-content: center; gap: 10px;" width="100%">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
         </a>
     </div>
     <div>
-        <a href="https://roadmap.sh">
-            <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Csystem-design%2Cbackend" alt="roadmap.sh" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder7475&theme=github_dark" alt="Top Languages" />
         </a>
     </div>
 </div>
 
+<div>
+    <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=software-architect%2Cdevops%2Clinux%2Cdocker" alt="roadmap.sh" />
+    </a>
 </div>
 
 </div>
 
-<div style="display: flex; gap: 1px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
     <div>
         <a href="https://holopin.io/@coder7475">
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
         </a>
     </div>
     <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=blue_green" alt="GitHub Profile Summary" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=github_dark" alt="GitHub Profile Summary" />
     </div>
 </div>
 
