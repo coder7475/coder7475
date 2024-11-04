@@ -143,7 +143,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 0px;">
     <div>
         <a href="https://holopin.io/@coder7475">
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
