@@ -6,19 +6,28 @@
 
 ## 📖 About Me
 
-👋 Hello! I'm Robiul Hossain, a Software Engineer specializing in web technologies, particularly JavaScript, TypeScript, and Python.
+👋 Hello! I'm Robiul Hossain, a passionate Software Engineer with expertise in modern web technologies.
 
-🏗️ I focus on backend development, utilizing Node.js, Express.js, MongoDB, and PostgreSQL to create robust applications.
+💻 My core strengths lie in:
 
-🌱 I am committed to continuous learning; recently, I've been delving into system design to develop more scalable and efficient solutions.
+- Full-stack development with JavaScript/TypeScript
+- Backend architecture with Node.js and Python
+- Database design with MongoDB and PostgreSQL
+- DevOps practices and automation
 
-🛠️ As a strong advocate for DevOps, I enjoy automating processes to enhance productivity and streamline workflows.
+🚀 Currently working at OctopusX, where I:
 
-🧪 I prioritize code quality and reliability, employing testing frameworks like Vitest, Cypress, and Jest to ensure smooth operation.
+- Lead deployment automation initiatives
+- Maintain and optimize production applications
+- Implement CI/CD pipelines using Docker, Nginx, and GitHub Actions
+- Drive technical improvements across the stack
 
-🔐 My recent interest in cybersecurity has led me to explore real-world challenges and issues, which I find incredibly engaging.
+🌱 I'm currently focused on:
 
-🚀 At OctopusX, I oversee deployments and application maintenance using Docker, Nginx, and GitHub Actions, always seeking opportunities for workflow improvement.
+- Advanced system design principles
+- Cloud-native architectures
+- Cybersecurity best practices
+- Performance optimization
 
 ## 👨‍💻 My Skills
 
@@ -52,7 +61,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Testing Frameworks
+### 🧪 Testing & Quality Assurance
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -64,7 +73,7 @@
 
 <div align="left">
 
-### 🖥️ Operating Systems & Shells
+### 🖥️ Development Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-1f425f?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -77,31 +86,30 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🌐 Web Development & Deployment Tools
+### 🛠️ Development & Deployment
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=gnu-nano&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 📦 API Testing & Documentation
+### 📚 Documentation & API Testing
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-3E5BFF?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### 📦 Package Managers & Process Management
+### 📦 Package & Process Management
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
-### 💬 Communication
+### 💬 Team Communication
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -120,13 +128,13 @@
 
 </div>
 
-## ✅ My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
+## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
 
 [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
 <div align="left">
 
-<div style="display: flex; justify-content: center; gap: 10px;" width="100%">
+<div style="display: flex; justify-content: left; gap: 10px;" width="100%">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
@@ -156,10 +164,10 @@
 ## 👥 Connect With Me
 
 <div align="left">
-    <div style="width: 100%; display: flex; justify-content: center;">
-        <a href="https://www.linkedin.com/in/robiul7475/"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
+    <div style="width: 100%; display: flex; justify-content: left;">
+        <a href="https://www.linkedin.com/in/robiul7475/" target="_blank"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
         <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
-        <a href="https://x.com/robiul7475"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
-        <a href="https://dly.to/VgMLbgyno0F"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://x.com/robiul7475" target="_blank"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://dly.to/VgMLbgyno0F" target="_blank"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
     </div>
 </div>
