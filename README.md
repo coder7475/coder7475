@@ -128,6 +128,17 @@
 
 </div>
 
+## 👥 Connect With Me
+
+<div align="left">
+    <div style="width: 100%; display: flex; justify-content: left;">
+        <a href="https://www.linkedin.com/in/robiul7475/" target="_blank"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://x.com/robiul7475" target="_blank"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
+        <a href="https://dly.to/VgMLbgyno0F" target="_blank"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
+    </div>
+</div>
+
 ## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
 
 [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
@@ -156,20 +167,6 @@
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
         </a>
     </div>
-    
-    
-    
 </div>
 
 ![Night view](./profile-3d-contrib/profile-night-view.svg)
-
-## 👥 Connect With Me
-
-<div align="left">
-    <div style="width: 100%; display: flex; justify-content: left;">
-        <a href="https://www.linkedin.com/in/robiul7475/" target="_blank"><img src="images/linkedin.png" alt="LinkedIn" style="width: 80px; margin: 0 5px;" /></a>
-        <a href="mailto:robiulhossain7475@gmail.com"><img src="images/Gmail.png" alt="Gmail" style="width: 80px; margin: 0 5px;" /></a>
-        <a href="https://x.com/robiul7475" target="_blank"><img src="images/x-logo.png" alt="X" style="width: 80px; margin: 0 5px;" /></a>
-        <a href="https://dly.to/VgMLbgyno0F" target="_blank"><img src="images/daildev.png" alt="daily.dev" style="width: 80px; margin: 0 5px;" /></a>
-    </div>
-</div>
