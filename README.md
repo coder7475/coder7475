@@ -154,9 +154,7 @@
 </div>
 
 <div align="left">
-    <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=Cdevops%2Clinux%2Cdocker%2software-architect" alt="roadmap.sh" />
-    </a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
 </div>
 
 </div>
