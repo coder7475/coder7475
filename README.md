@@ -156,10 +156,12 @@
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
         </a>
     </div>
-    <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder7475&theme=github_dark" alt="GitHub Profile Summary" />
-    </div>
+    
+    
+    
 </div>
+
+![Night view](./profile-3d-contrib/profile-night-view.svg)
 
 ## 👥 Connect With Me
 
