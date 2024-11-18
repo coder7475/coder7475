@@ -39,7 +39,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-1F9B4D?style=for-the-badge&logo=yaml&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Frontend
 
@@ -145,7 +145,7 @@
 
 <div align="left">
 
-<div style="display: flex; justify-content: left; gap: 10px;" width="100%">
+<div style="display: flex; justify-content: left;">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
@@ -154,12 +154,13 @@
 </div>
 
 <div align="left">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
+    
 </div>
 
 </div>
 
 <div align="left">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
     <div>
         <a href="https://holopin.io/@coder7475">
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
