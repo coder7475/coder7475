@@ -146,24 +146,18 @@
 <div align="left">
 
 <div style="display: flex; justify-content: left;">
-    <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
         </a>
-    </div>
-</div>
-
-<div align="left">
-    
+        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
 </div>
 
 </div>
 
 <div align="left">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cgit-github%2Cdocker" alt="roadmap.sh"/></a>
     <div>
         <a href="https://holopin.io/@coder7475">
-            <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="560" />
+            <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="100%" />
         </a>
     </div>
 </div>
