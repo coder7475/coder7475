@@ -146,10 +146,10 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 10px;">        
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">        
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Cdocker%2Clinux" alt="roadmap.sh"/></a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=tall&range=all_time" alt="Fahad's WakaTime stats" />
         </a>
 </div>
 
