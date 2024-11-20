@@ -142,13 +142,11 @@
     </div>
 </div>
 
-## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
+## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
 
-[![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+<div align="center">
 
-<div align="left">
-
-<div style="display: flex; justify-content: left; gap: 10px;">        
+<div style="display: flex; justify-content: center; gap: 10px;">        
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Cmlops%2Cdocker%2Clinux" alt="roadmap.sh"/></a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
