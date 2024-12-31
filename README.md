@@ -157,7 +157,7 @@
     </div>
 </div>
 
-## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true) [![wakatime](https://wakatime.com/badge/user/380c42d8-a54a-4057-be72-188158142f19.svg)](https://wakatime.com/@380c42d8-a54a-4057-be72-188158142f19)
+## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
 
 <div align="center">
 
