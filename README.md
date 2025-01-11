@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://app.daily.dev/coder74745">
-    <img src="./devcard.png" width="652" alt="Robiul's Dev Card"/>
-  </a>
-</div>
-
 ## 📖 About Me
 
 👋 Hello! I'm Robiul Hossain, a Software Engineer with expertise in modern web technologies.
@@ -166,6 +160,12 @@
         <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
         </a> -->
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/coder74745">
+    <img src="./devcard.png" width="652" alt="Robiul's Dev Card"/>
+  </a>
 </div>
 
 </div>
