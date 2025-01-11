@@ -1,27 +1,22 @@
-## 📖 About Me
+## 👨‍💻 About Me
 
-👋 Hello! I'm Robiul Hossain, a Software Engineer with expertise in modern web technologies.
+Hi there! I'm Robiul Hossain, a Software Engineer specializing in web technologies. I have expertise in JavaScript, TypeScript, and MongoDB. I am currently expanding my knowledge in DevOps engineering, SRE, AI and CyberSecurity.
 
-💻 My core strengths lie in:
+I love building high-performance, user-friendly web applications and have hands-on experience with tools and technologies like Node.js, Express.js, MongoDB, Docker, CI/CD pipelines, Nginx etc. I'm a strong advocate for clean code, thorough testing, and DevOps culture.
 
-- Full-stack development with JavaScript/TypeScript
-- Backend architecture with Node.js and Python
-- Database design with MongoDB and PostgreSQL
-- DevOps practices and automation
+## 🛠 What I'm Working On
 
-🚀 Currently working at OctopusX, where I:
+- Mastering the MERN stack while following a 3-tier architecture approach.
+- Automating tasks using shell scripts and deploying secure, scalable applications.
+- Learning Monorepo for scalable codebase and faster CI.
+- Diving into Neovim as my next productivity tool.
+- Learning sql, PostgreSQL and databases in depth.
+- Learning ML Fundamentals and MLOps for building AI Powered Application for Production.
+- Exploring system design, cybersecurity, and monitoring tools like Prometheus, Grafana etc.
 
-- Lead deployment automation initiatives
-- Maintain and optimize production applications
-- Implement CI/CD pipelines using Docker, Nginx, and GitHub Actions
-- Drive technical improvements across the stack
+## 📈 Vision
 
-🌱 I'm currently focused on:
-
-- Advanced system design principles
-- Cloud-native architectures
-- Cybersecurity best practices
-- Performance optimization
+In the next 4-5 years, I aim to become a Principle Software Engineer with expertise in system design, testing, DevOps, SRE and cybersecurity. I'm also keen to improve my communication skills and contribute to impactful projects.
 
 ## 👨‍💻 My Skills
 
