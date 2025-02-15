@@ -82,7 +82,6 @@ In the next 4-5 years, I aim to become a Principle Software Engineer with expert
 ### 🛠️ Development Tools
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-FF5B00?style=for-the-badge&logo=prettier&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
@@ -155,8 +154,6 @@ In the next 4-5 years, I aim to become a Principle Software Engineer with expert
 <div style="display: flex; justify-content: center; gap: 10px;">        
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cdocker%2Cmlops" alt="roadmap.sh"/></a>
         <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahad7475&theme=github_dark&v=2&layout=compact&range=all_time" alt="Fahad's WakaTime stats" />
-        </a> -->
 </div>
 
 <div align="center">
