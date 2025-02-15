@@ -77,7 +77,6 @@ In the next 4-5 years, I aim to become a Principle Software Engineer with expert
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Feast](https://img.shields.io/badge/Feast-3E3E3E?style=for-the-badge&logo=feast&logoColor=white)
 
 ### 🛠️ Development Tools
 
