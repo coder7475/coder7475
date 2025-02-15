@@ -152,7 +152,6 @@ In the next 4-5 years, I aim to become a Principle Software Engineer with expert
 
 <div style="display: flex; justify-content: center; gap: 10px;">        
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cdocker%2Cmlops" alt="roadmap.sh"/></a>
-        <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <div align="center">
