@@ -3,7 +3,7 @@
 **Hi, I’m Robiul Hossain — a Software Engineer with a passion for building secure, scalable, and high-performance web systems.**  
 I specialize in JavaScript, TypeScript, and Python, with deep experience in backend development using Node.js, Express.js, and MongoDB.  
 
-Right now, I’m diving deeper into **DevOps engineering, Site Reliability Engineering (SRE), AI**, and **Cybersecurity** to bridge the gap between development and infrastructure. I work hands-on with tools like **Docker, Nginx, GitHub Actions**, and **CI/CD pipelines**, always striving to automate workflows and improve system resilience.  
+Right now, I’m diving deeper into **DevOps engineering, Site Reliability Engineering (SRE), AI**, and **Cybersecurity** to bridge the gap between development and infrastructure. I work hands-on with tools like **Docker, Nginx, GitHub Actions** etc, always striving to automate workflows and improve system resilience.  
 
 I’m a strong advocate for **clean code, thorough testing**, and a **DevOps-first mindset** — because building great software doesn’t stop at code; it’s about making it reliable, secure, and future-ready.
 
