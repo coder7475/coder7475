@@ -1,25 +1,25 @@
 ## 👨‍💻 About Me
 
-**Hi, I’m Robiul Hossain — a Software Engineer with a passion for building secure, scalable, and high-performance web systems.**  
-I specialize in JavaScript, TypeScript, and Python, with deep experience in backend development using Node.js, Express.js, and MongoDB.  
+**Hi, I’m Robiul Hossain — a Software Engineer focused on building scalable, secure, and high-performance backend systems.**  
+I specialize in **TypeScript**, **Node.js**, **Express.js**, **Python (FastAPI)**, and databases like **PostgreSQL** and **MongoDB**.  
 
-Right now, I’m diving deeper into **DevOps engineering, Site Reliability Engineering (SRE), AI**, and **Cybersecurity** to bridge the gap between development and infrastructure. I work hands-on with tools like **Docker, Nginx, GitHub Actions** etc, always striving to automate workflows and improve system resilience.  
+I work across backend development and DevOps, with hands-on experience in **Docker**, **Nginx**, **GitHub Actions**, and system monitoring tools like **Prometheus** and **Grafana**. I emphasize clean architecture, efficient database design, automation, and system resilience.
 
-I’m a strong advocate for **clean code, thorough testing**, and a **DevOps-first mindset** — because building great software doesn’t stop at code; it’s about making it reliable, secure, and future-ready.
+Currently, I am open to **full-time opportunities** in backend development and infrastructure engineering.
 
 ## 🛠 What I'm Working On
 
-- Mastering the MERN stack while following a 3-tier architecture approach.
-- Automating tasks using shell scripts and deploying secure, scalable applications.
-- Learning Monorepo for scalable codebase and faster CI.
-- Diving into Neovim as my next productivity tool.
-- Learning sql, PostgreSQL and databases in depth.
-- Learning ML Fundamentals and MLOps for building AI Powered Application for Production.
-- Exploring system design, cybersecurity, and monitoring tools like Prometheus, Grafana etc.
+- Mastering the MERN stack with a 3-tier architecture approach.
+- Automating deployments and workflows using Docker, Nginx, and GitHub Actions.
+- Deepening expertise in PostgreSQL, SQL, and scalable database design.
+- Learning Monorepo management for scalable codebases and faster CI.
+- Improving productivity with Neovim.
+- Exploring system design, testing strategies, and SRE best practices.
 
 ## 📈 Vision
 
-In the next 4-5 years, I aim to become a Principle Software Engineer with expertise in system design, testing, DevOps, SRE and cybersecurity. I'm also keen to improve my communication skills and contribute to impactful projects.
+Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**, specializing in system design, backend infrastructure, DevOps, and platform reliability, while improving leadership and communication skills to drive impactful projects.
+
 
 ## 👨‍💻 My Skills
 
