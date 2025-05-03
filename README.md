@@ -9,12 +9,14 @@ Currently, I am open to **full-time opportunities** in backend development and i
 
 ## 🛠 What I'm Working On
 
-- Mastering the MERN stack with a 3-tier architecture approach.
-- Automating deployments and workflows using Docker, Nginx, and GitHub Actions.
-- Deepening expertise in PostgreSQL, SQL, and scalable database design.
-- Learning Monorepo management for scalable codebases and faster CI.
-- Improving productivity with Neovim.
-- Exploring system design, testing strategies, and SRE best practices.
+- Specializing in backend development with TypeScript, Express.js, and FastAPI.
+- Designing scalable, high-performance databases using PostgreSQL and advanced SQL.
+- Deepening knowledge in system design, distributed systems, and microservice architecture.
+- Strengthening problem-solving with regular DSA practice and low-level design work.
+- Applying DevOps practices: CI/CD with Docker, GitHub Actions, and Nginx.
+- Setting up observability stacks with Prometheus, Grafana, and structured logging.
+- Managing large codebases efficiently with Monorepo strategies.
+- Boosting productivity through a custom-tailored Neovim workflow.
 
 ## 📈 Vision
 
