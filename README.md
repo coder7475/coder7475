@@ -10,10 +10,10 @@ Currently, I am open to **full-time opportunities** in backend development and i
 ## 🛠 What I'm Working On
 
 - Specializing in backend development with TypeScript, Express.js, and NestJS.
-- Designing scalable, high-performance databases using PostgreSQL and advanced SQL.
+- Designing scalable, high-performance databases using PostgreSQL, MongoDB and Redis.
 - Deepening knowledge in system design, distributed systems, and microservice architecture.
 - Strengthening problem-solving with regular DSA practice and low-level design work.
-- Applying DevOps practices: CI/CD with Docker, GitHub Actions, and Nginx.
+- Applying DevOps practices: CI/CD with Docker, GitHub Actions, Nginx, aws labs etc.
 - Setting up observability stacks with Prometheus, Grafana, and structured logging.
 - Managing large codebases efficiently with Monorepo strategies.
 - Boosting productivity through a custom-tailored Neovim workflow.
