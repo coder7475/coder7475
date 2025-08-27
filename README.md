@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 **Hi, I’m Robiul Hossain — a Software Engineer focused on building scalable, secure, and high-performance backend systems.**  
-I specialize in **TypeScript**, **Node.js**, **Express.js** and databases like **PostgreSQL** and **MongoDB**.  
+I specialize in **TypeScript**, **Node.js**, **Express.js** and databases like **PostgreSQL** and **MongoDB**.
 
 I work across backend development and DevOps, with hands-on experience in **Docker**, **Nginx**, **GitHub Actions**, and system monitoring tools like **Prometheus** and **Grafana**. I emphasize clean architecture, efficient database design, automation, and system resilience.
 
@@ -21,7 +21,6 @@ Currently, I am open to **full-time opportunities** in backend development and i
 
 Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**, specializing in system design, backend infrastructure, DevOps, and platform reliability, while improving leadership and communication skills to drive impactful projects.
 
-
 ## 👨‍💻 My Skills
 
 <div align="left">
@@ -31,6 +30,7 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-1F9B4D?style=for-the-badge&logo=yaml&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -40,16 +40,19 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 ### ⚙️ Backend
 
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🧪 Testing & Quality Assurance
 
@@ -85,21 +88,32 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-### 🚀 Deployment Tools
+### 🚀 Deployment & DevOps Tools
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### ☁️ Server & Cloud
+
+![Contabo](https://img.shields.io/badge/Contabo-0098DA?style=for-the-badge&logo=contabo&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ### 🔍 Monitoring & Observability
 
+![Cronitor](https://img.shields.io/badge/Cronitor-2B90D9?style=for-the-badge&logo=cronitor&logoColor=white)
+![Uptime Robot](https://img.shields.io/badge/Uptime_Robot-1B1B1B?style=for-the-badge&logo=uptimerobot&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 📚 Documentation & API Testing
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-3E5BFF?style=for-the-badge&logo=obsidian&logoColor=white)
