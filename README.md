@@ -1,15 +1,16 @@
 ## 👨‍💻 About Me
 
-**Hi, I’m Robiul Hossain — a Software Engineer focused on building scalable, secure, and high-performance backend systems.**  
-I specialize in **TypeScript**, **Node.js**, **Express.js** and databases like **PostgreSQL** and **MongoDB**.
+**Hello, I'm Robiul Hossain — a Software Engineer dedicated to building scalable, secure, and high-performance systems.**
 
-I work across backend development and DevOps, with hands-on experience in **Docker**, **Nginx**, **GitHub Actions**, and system monitoring tools like **Prometheus** and **Grafana**. I emphasize clean architecture, efficient database design, automation, and system resilience.
+I have expertise in **TypeScript**, **Node.js**, **Express.js**, and **NestJS**, as well as extensive experience with databases such as **PostgreSQL**, **MongoDB**, and **Redis**.
 
-Currently, I am open to **full-time opportunities** in backend development and infrastructure engineering.
+My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
+
+I am currently seeking **full-time opportunities** in Software Engineering roles.
 
 ## 🛠 What I'm Working On
 
-- Specializing in backend development with Node.js, TypeScript, Express.js.
+- Specializing in backend development with Node.js, TypeScript, Express.js & NestJs.
 - Designing scalable, high-performance databases using PostgreSQL, MongoDB and Redis.
 - Strengthening problem-solving with regular DSA practice and low-level design work.
 - Applying DevOps practices: CI/CD with Docker, GitHub Actions, Nginx, aws labs etc.
