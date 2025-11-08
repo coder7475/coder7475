@@ -4,7 +4,7 @@
 
 I have expertise in **TypeScript**, **Python**, **Node.js**, **Express.js**, **FastAPI**, and **NestJS**, as well as extensive experience with databases such as **PostgreSQL**, **MongoDB**, and **Redis**.
 
-My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, **Kubernetes** and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
+My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions** and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
 
 I am currently seeking **full-time opportunities** in Software Engineering roles.
 
@@ -76,11 +76,13 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=zsh&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-4A90E2?style=for-the-badge&logo=warp&logoColor=white)
 
-### 🌳 Version Control & CI/CD
+### 🌳 Version Control & CI/CD & Automation
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1CA1C1?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ### 🛠️ Development Tools
 
@@ -96,9 +98,8 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1CA1C1?style=for-the-badge&logo=n8n&logoColor=white)
+# ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+# ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### ☁️ Server & Cloud
 
