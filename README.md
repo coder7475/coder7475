@@ -2,9 +2,9 @@
 
 **Hello, I'm Robiul Hossain — a Software Engineer dedicated to building scalable, secure, and high-performance systems.**
 
-I have expertise in  **TypeScript**, **Python**, **Node.js**, **Express.js**,  **FastAPI**, and **NestJS**, as well as extensive experience with databases such as **PostgreSQL**, **MongoDB**, and **Redis**.
+I have expertise in **TypeScript**, **Python**, **Node.js**, **Express.js**, **FastAPI**, and **NestJS**, as well as extensive experience with databases such as **PostgreSQL**, **MongoDB**, and **Redis**.
 
-My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
+My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, **Kubernetes** and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
 
 I am currently seeking **full-time opportunities** in Software Engineering roles.
 
@@ -13,9 +13,9 @@ I am currently seeking **full-time opportunities** in Software Engineering roles
 - Specializing in backend development with Node.js, Python, TypeScript, FastAPI, Express.js & NestJs.
 - Designing scalable, high-performance databases using PostgreSQL, MongoDB and Redis.
 - Strengthening problem-solving with regular DSA practice and low-level design work.
-- Applying DevOps practices: CI/CD with Docker, GitHub Actions, Nginx, aws labs etc.
+- Applying DevOps practices: CI/CD with Docker, GitHub Actions, Nginx, AWS, Kubernetes etc.
 - Managing large codebases efficiently with Monorepo strategies.
-- Boosting productivity through a custom-tailored Neovim workflow.
+- Boosting productivity through a automating workflows.
 - Deepening knowledge in system design, distributed systems, and microservice architecture.
 
 ## 📈 Vision
@@ -60,6 +60,8 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
@@ -94,7 +96,9 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1CA1C1?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ☁️ Server & Cloud
 
