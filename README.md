@@ -4,7 +4,7 @@
 
 I work with **TypeScript**, **Python**, **Node.js**, **Express.js**, **FastAPI**, **NestJS**, **React**, and **Next.js**. My experience spans both backend and frontend development, and I have strong expertise in databases such as **PostgreSQL**, **MongoDB**, and **Redis**. I also work with **RabbitMQ** for messaging and distributed communication.
 
-My professional interests cover backend engineering and DevOps. I use tools such as **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, and monitoring platforms including **Prometheus** and **Grafana**. I focus on clean architecture, improving database efficiency, automating development processes, and building resilient systems.
+My professional interests cover full stack development, backend engineering, and DevOps. I use tools such as **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, and monitoring platforms including **Prometheus** and **Grafana**. I focus on clean architecture, improving database efficiency, automating development processes, and building resilient systems.
 
 I am currently seeking **full-time opportunities** in Software Engineering roles.
 
