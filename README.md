@@ -1,22 +1,24 @@
 ## 👨‍💻 About Me
 
-**Hello, I'm Robiul Hossain — a Software Engineer dedicated to building scalable, secure, and high-performance systems.**
+**Hello, I'm Robiul Hossain, a Software Engineer focused on building scalable, secure, and high-performance systems.**
 
-I have expertise in **TypeScript**, **Python**, **Node.js**, **Express.js**, **FastAPI**, and **NestJS**, as well as extensive experience with databases such as **PostgreSQL**, **MongoDB**, and **Redis**.
+I work with **TypeScript**, **Python**, **Node.js**, **Express.js**, **FastAPI**, **NestJS**, **React**, and **Next.js**. My experience spans both backend and frontend development, and I have strong expertise in databases such as **PostgreSQL**, **MongoDB**, and **Redis**. I also work with **RabbitMQ** for messaging and distributed communication.
 
-My professional focus spans backend development and DevOps. I am proficient with tools and technologies including **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions** and monitoring solutions like **Prometheus** and **Grafana**. I am committed to implementing clean architecture, optimizing database design, automating workflows, and ensuring system resilience.
+My professional interests cover backend engineering and DevOps. I use tools such as **Docker**, **Nginx**, **Git**, **GitHub**, **GitHub Actions**, and monitoring platforms including **Prometheus** and **Grafana**. I focus on clean architecture, improving database efficiency, automating development processes, and building resilient systems.
 
 I am currently seeking **full-time opportunities** in Software Engineering roles.
 
 ## 🛠 What I'm Working On
 
-- Specializing in backend development with Node.js, Python, TypeScript, FastAPI, Express.js & NestJs.
-- Designing scalable, high-performance databases using PostgreSQL, MongoDB and Redis.
-- Strengthening problem-solving with regular DSA practice and low-level design work.
-- Applying DevOps practices: CI/CD with Docker, GitHub Actions, Nginx, AWS, Kubernetes etc.
-- Managing large codebases efficiently with Monorepo strategies.
-- Boosting productivity through a automating workflows.
-- Deepening knowledge in system design, distributed systems, and microservice architecture.
+- Strengthening backend development skills in Node.js, Python, TypeScript, FastAPI, Express.js, and NestJS.
+- Expanding frontend expertise with React and Next.js.
+- Building messaging pipelines using RabbitMQ for asynchronous and distributed workloads.
+- Designing scalable and high-performance databases using PostgreSQL, MongoDB, and Redis.
+- Improving problem-solving through regular DSA practice and low-level design.
+- Applying DevOps practices involving CI/CD, Docker, GitHub Actions, Nginx, AWS, and Kubernetes.
+- Managing and structuring large codebases with Monorepo techniques.
+- Increasing productivity by automating workflows and internal tools.
+- Deepening understanding of system design, distributed systems, and microservice architecture.
 
 ## 📈 Vision
 
@@ -36,18 +38,18 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 ![Shell Scripting](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🌐 Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-
 ### ⚙️ Backend
 
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🌐 Frontend
+
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 ### 🗄️ Databases
 
