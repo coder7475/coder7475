@@ -164,7 +164,7 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
 
 ## 📊 My Stats ![](https://komarev.com/ghpvc/?username=coder7475&abbreviated=true)
 
-<div align="center">
+<!-- <div align="center">
 
 <div style="display: flex; justify-content: center; gap: 10px;">        
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65ead98b73b4b18a31e9d096?variant=dark&roadmaps=devops%2Clinux%2Cdocker%2Cmlops" alt="roadmap.sh"/></a>
@@ -184,6 +184,6 @@ Over the next 4–5 years, I aim to grow into a **Principal Software Engineer**,
             <img src="https://holopin.me/coder7475" alt="Holopin Badge" width="100%" />
         </a>
     </div>
-</div>
+</div> -->
 
 ![Night view](./profile-3d-contrib/profile-night-view.svg)
