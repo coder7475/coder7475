@@ -16,7 +16,7 @@ Experienced in backend and full stack development with TypeScript, Python, Go, N
 
 ## 📈 Goal
 
-Grow into a **Principal Software Engineer** specializing in architecture, platform reliability, DevOps, and technical leadership.
+Grow into a **Distinguished Software Engineer** specializing in architecture, platform reliability, DevOps, and technical leadership.
 
 ## 👨‍💻 Skills & Tools
 
@@ -27,8 +27,8 @@ Grow into a **Principal Software Engineer** specializing in architecture, platfo
 - **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, GitHub Actions, Ansible
 - **Testing**: Playwright, Jest, Cypress, Pytest, Vitest, Selenium
 - **Monitoring**: Prometheus, Grafana, Cronitor, Uptime Robot
-- **Docs & APIs**: Swagger, Postman, Notion, Obsidian, **Confluence**
-- **Collaboration & Productivity**: **Jira**, **Slack**
+- **Docs & APIs**: Swagger, Postman, Notion, Obsidian, Confluence
+- **Collaboration & Productivity**: Jira, Slack
 
 ## 🏃 Profiles
 
