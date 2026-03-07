@@ -20,7 +20,7 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 
 ## Skills & Tools
 
-- **Languages**: Go,TypeScript, Python, JavaScript, C++, Shell, SQL, YAML
+- **Languages**: TypeScript, Python, JavaScript, C++, Shell, SQL, YAML
 - **Backend**: Node.js, Express, NestJS, FastAPI, RabbitMQ
 - **Frontend**: React, Next.js, Remix
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
