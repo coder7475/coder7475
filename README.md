@@ -24,9 +24,9 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 - **Backend**: Node.js, Express, NestJS, FastAPI, RabbitMQ
 - **Frontend**: React, Next.js, Remix
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
-- **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, GitHub Actions, Ansible
+- **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions, Ansible
 - **Testing**: Playwright, Jest, Cypress, Pytest, Vitest, Selenium
-- **Monitoring**: Prometheus, Grafana, Cronitor, Uptime Robot
+- **Monitoring**: Prometheus, Grafana
 - **Docs & APIs**: Swagger, Postman, Notion, Obsidian, Confluence
 - **Collaboration & Productivity**: Jira, Slack, Microsoft Teams
 
