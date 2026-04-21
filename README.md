@@ -2,16 +2,16 @@
 
 I'm Robiul Hossain — Software Engineer focused on scalable, secure, and high-performance systems.
 
-Experienced in backend and full stack development with TypeScript, Python, Node.js (Express, NestJS, FastAPI), React, Next.js, PostgreSQL, MongoDB, Redis, and ElasticSearch. Skilled in DevOps using AWS, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Terragrunt, Prometheus, Grafana.
+Experienced in backend and full stack development with TypeScript, Node.js (Express, NestJS), React, Next.js, PostgreSQL, MongoDB, Redis etc. Skilled in DevOps using AWS, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Terragrunt etc.
 
 ## Current Focus
 
-- Backend & API development (Node.js, Python, TypeScript)
+- Backend & API development (Node.js, TypeScript)
 - Next.js & React frontend
 - Cloud/infrastructure (AWS, Docker, Terraform, Terragrunt, Kubernetes)
 - Distributed systems, system design, data pipelines
 - Automation, monorepo management, CI/CD
-- Testing (Jest, Pytest, Playwright, Cypress)
+- Testing (Jest, Playwright)
 - Learning cybersecurity on TryHackMe
 
 ## Goal
@@ -20,12 +20,12 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 
 ## Skills & Tools
 
-- **Languages**: TypeScript, Python, JavaScript, C++, Shell, SQL, YAML
-- **Backend**: Node.js, Express, NestJS, FastAPI, RabbitMQ
+- **Languages**: TypeScript, JavaScript, SQL, YAML
+- **Backend**: Node.js, Express, NestJS, RabbitMQ
 - **Frontend**: React, Next.js, Remix
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
 - **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions, Ansible
-- **Testing**: Playwright, Jest, Cypress, Pytest, Vitest, Selenium
+- **Testing**: Playwright, Jest, Vitest
 - **Monitoring**: Prometheus, Grafana
 - **Docs & APIs**: Swagger, Postman, Notion, Obsidian, Confluence
 - **Collaboration & Productivity**: Jira, Slack, Microsoft Teams
