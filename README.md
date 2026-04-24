@@ -2,7 +2,7 @@
 
 I'm Robiul Hossain — Software Engineer focused on scalable, secure, and high-performance systems.
 
-Experienced in backend and full stack development with TypeScript, Node.js (Express, NestJS), React, Next.js, PostgreSQL, MongoDB, Redis etc. Skilled in DevOps using AWS, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Terragrunt etc.
+Experienced in backend and full stack development with TypeScript, Node.js (Express, NestJS), FastAPI, React, Next.js, PostgreSQL, MongoDB, Redis etc. Skilled in DevOps using AWS, Docker, Kubernetes, Nginx, GitHub Actions, Terraform, Terragrunt etc.
 
 ## Current Focus
 
