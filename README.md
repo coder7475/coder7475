@@ -6,7 +6,7 @@ Experienced in backend and full stack development with TypeScript, Node.js (Expr
 
 ## Current Focus
 
-- Backend & API development (Node.js, TypeScript)
+- Backend & API development (TypeScript, Python)
 - Next.js & React frontend
 - Cloud/infrastructure (AWS, Docker, Terraform, Terragrunt, Kubernetes)
 - Distributed systems, system design, data pipelines
