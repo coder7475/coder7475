@@ -13,6 +13,7 @@ Experienced in backend and full stack development with TypeScript, Node.js (Expr
 - Automation, monorepo management, CI/CD
 - Testing (Jest, Playwright)
 - Learning cybersecurity on TryHackMe
+- Learning Rust
 
 ## Goal
 
@@ -20,8 +21,8 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 
 ## Skills & Tools
 
-- **Languages**: TypeScript, JavaScript, SQL, YAML
-- **Backend**: Node.js, Express, NestJS, RabbitMQ
+- **Languages**: TypeScript, JavaScript, Rust, SQL, YAML
+- **Backend**: Node.js, Express, FastAPI, NestJS, RabbitMQ
 - **Frontend**: React, Next.js, Remix
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
 - **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions, Ansible
