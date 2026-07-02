@@ -6,12 +6,10 @@ Experienced in backend and full stack development with TypeScript, Node.js, Reac
 
 ## Current Focus
 
-- Backend & API development (TypeScript, Python)
-- Next.js & React frontend
+- Backend & API development
 - Cloud/infrastructure (AWS, Docker, Terraform, Terragrunt, Kubernetes)
 - Distributed systems, system design, data pipelines
 - Automation, monorepo management, CI/CD
-- Testing (Jest, Playwright)
 - Learning cybersecurity on TryHackMe
 - Learning Rust
 
