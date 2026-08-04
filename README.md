@@ -9,9 +9,7 @@ Experienced in backend and full stack development with TypeScript, Node.js, Reac
 - Backend & API development
 - Cloud/infrastructure (AWS, Docker, Terraform, Terragrunt, Kubernetes)
 - Distributed systems, system design, data pipelines
-- Automation, monorepo management, CI/CD
 - Learning cybersecurity on TryHackMe
-- Learning Rust
 
 ## Goal
 
@@ -23,7 +21,7 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 - **Backend**: Node.js, Express, NestJS, RabbitMQ
 - **Frontend**: React, Next.js
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
-- **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions, Ansible
+- **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions
 - **Testing**: Playwright, Jest, Vitest
 - **Monitoring**: Prometheus, Grafana
 - **Docs & APIs**: Swagger, Postman, Notion, Obsidian, Confluence
