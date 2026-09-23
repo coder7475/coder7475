@@ -17,9 +17,9 @@ Grow into a **Distinguished Software Engineer** specializing in architecture, pl
 
 ## Skills & Tools
 
-- **Languages**: TypeScript, JavaScript, SQL, YAML
+- **Languages**: TypeScript, JavaScript, SQL, Python
 - **Backend**: Node.js, Express, NestJS, RabbitMQ
-- **Frontend**: React, Next.js
+- **Frontend**: React, Next.js, React Native
 - **Databases**: PostgreSQL, MongoDB, Redis, ElasticSearch
 - **DevOps & Cloud**: Docker, AWS, Terraform, Terragrunt, Kubernetes, Nginx, Traefik, GitHub Actions
 - **Testing**: Playwright, Jest, Vitest
